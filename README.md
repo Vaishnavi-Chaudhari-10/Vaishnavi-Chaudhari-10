@@ -74,6 +74,7 @@ Data Viz          ███████░░░░░   75%
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Chaudhari-10&theme=radical)](https://github.com/Vaishnavi-Chaudhari-10)
 
 
 
