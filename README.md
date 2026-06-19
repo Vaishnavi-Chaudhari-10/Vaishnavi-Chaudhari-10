@@ -36,16 +36,7 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-## 📚 Currently Learning
 
-<div align="center">
-
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)]()
-[![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-
-</div>
 ---
 
 ## 📊 GitHub Stats
@@ -61,7 +52,16 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 </div>
 
 
+## 📚 Currently Learning
 
+<div align="left">
+
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)]()
+[![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+</div>
 
 
 ## 📈 Weekly Development Breakdown
