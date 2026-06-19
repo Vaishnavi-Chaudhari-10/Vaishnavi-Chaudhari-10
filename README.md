@@ -63,6 +63,9 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 </div>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Chaudhari-10&theme=radical)](https://github.com/Vaishnavi-Chaudhari-10)
+
+
 ## 📈 Weekly Development Breakdown
 
 ```text
@@ -74,7 +77,7 @@ Data Viz          ███████░░░░░   75%
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Chaudhari-10&theme=radical)](https://github.com/Vaishnavi-Chaudhari-10)
+
 
 
 
