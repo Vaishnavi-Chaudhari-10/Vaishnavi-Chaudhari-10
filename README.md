@@ -35,6 +35,21 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chaudhari-10&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Chaudhari-10&theme=radical&hide_border=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chaudhari-10&layout=compact&theme=radical&hide_border=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+</div>
 ### 🗄️ Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
