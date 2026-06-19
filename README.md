@@ -50,12 +50,35 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chaudhari-10&layout=compact&theme=radical&hide_border=true)](https://github.com/Vaishnavi-Chaudhari-10)
 
 </div>
-### 🗄️ Databases & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+## 📚 Currently Learning
+
+<div align="center">
+
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)]()
+[![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+</div>
+
+
+## 📈 Weekly Development Breakdown
+
+```text
+Python          ████████░░░░   80%  
+SQL             ██████░░░░░░   60%
+Machine Learning███████░░░░░   70%
+Deep Learning   ████░░░░░░░░   40%
+Data Viz        ███████░░░░░   75%
+
+
+
+
+
+
+
+
+
 
 
