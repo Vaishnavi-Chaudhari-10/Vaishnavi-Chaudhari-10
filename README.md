@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi,Vaishnavi here !
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Data+Storyteller;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
 <!--
 **Vaishnavi-Chaudhari-10/Vaishnavi-Chaudhari-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
