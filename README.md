@@ -37,6 +37,36 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Simple stats with your actual contributions -->
+### 📈 My GitHub Journey
+
+| Metric | Count |
+|--------|-------|
+| **Total Contributions** | 59+ |
+| **This Year** | 38 |
+| **Last Year** | 21 |
+| **Public Repositories** | 7 |
+| **Private Repositories** | 1 |
+
+</div>
+
+<!-- Optional: If you want to show the cards but they might be inaccurate -->
+<!-- Uncomment if you want to try them anyway -->
+<!--
+<div align="center">
+  
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chaudhari-10&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Chaudhari-10&theme=radical&hide_border=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chaudhari-10&layout=compact&theme=radical&hide_border=true)](https://github.com/Vaishnavi-Chaudhari-10)
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
