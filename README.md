@@ -41,16 +41,7 @@ I'm a passionate **Data Science student** who loves turning raw data into action
 </div>
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chaudhari-10&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Vaishnavi-Chaudhari-10)
-
-
-
-
-</div>
 
 
 ## 📚 Currently Learning
